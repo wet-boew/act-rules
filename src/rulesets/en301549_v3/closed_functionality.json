@@ -1,0 +1,194 @@
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "en301549_v3:closed_functionality",
+      "earl:outcome": "earl:untested",
+      "subject": {
+        "@id": "_:closed_functionality_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Identification of the closed functionality where the clause 5.2 to 13 is not applicable"
+      },
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:assistive_technology",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:audio_output_of_visual_info",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:auditory_output_delivery_including_speech",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:auditory_output_correlation",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:speech_output_user_control",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:speech_output_auto_interruption",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:speech_output_non_text_content",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:speech_output_video_info",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:maskey_entry",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:private_access_personal_data",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:non_interfering_audio_output",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:private_listening_volume",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:speaker_volume",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:volume_reset",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:spoken_languages",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:non_visual_error_identification",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:receipts_tickets_transactional_outputs",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:functionality_closed_text_enlargement",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:visual_output_auditory_info",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:operation_closed_functionality",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:operation_input_focus",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    },
+    {
+      "earl:test": "en301549_v3:access_without_speech",
+      "earl:subject": "_:closed_functionality_itm1",
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

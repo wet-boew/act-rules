@@ -1,3 +1,4 @@
+---
 title: C5.1.2.1 - Closed functionality
 permalink: /rules/en301549_v3/closed_functionality
 ---

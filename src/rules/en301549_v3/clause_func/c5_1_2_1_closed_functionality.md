@@ -1,6 +1,9 @@
+title: C5.1.2.1 - Closed functionality
+permalink: /rules/en301549_v3/closed_functionality
+---
 # Closed functionality - EN 301 549 v3
 
-Rule id: https://wet-boew.github.io/act-rules/rules/en301549_v3/clause_func/c5_1_2_1_closed_functionality.html
+Rule id: https://wet-boew.github.io/act-rules/rules/en301549_v3/closed_functionality
 
 Rule type: Atomic rule
 

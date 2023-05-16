@@ -6,32 +6,25 @@ title: Standard profiles for WCAG
 
  <h1>Standard profiles for WCAG</h1>
 
- | Prefix | Reference | Vocabulary definition |
- | --- | --- | --- |
- | `acr:` | `https://wet-boew.github.io/vocab/acr#` | [Accessibility Conformance Report](https://wet-boew.github.io/vocab/acr#">) |
- | `skos:` | `http://www.w3.org/2004/02/skos/core#` | [SKOS Simple Knowledge Organization System](http://www.w3.org/TR/skos-primer) |
+ <table>
+  <tr> <th>Prefix <th>Reference <th>Vocabulary definition
+  <tr> <td><code>acr:</code> <td><code>https://wet-boew.github.io/vocab/acr#</code> <td><a href="https://wet-boew.github.io/vocab/acr#">Accessibility Conformance Report</a>
+  <tr> <td><code>skos:</code> <td><code>http://www.w3.org/2004/02/skos/core#</code> <td><a href="http://www.w3.org/TR/skos-primer">SKOS Simple Knowledge Organization System</a>
+ </table>
 
-
- <section resource="#levelAA" typeof="acr:ConformanceOption skos:Concept">
-  <h2 id="levelAA" property="skos:prefLabel">Level AA</span> (<code>#levelAA</code>)</h2>
-  <p property="skos:scopeNote">Conformance at level AA include all success criteria (SC) tagged at level AA and at level A.</p>
+ <section id="levelAA" resource="#levelAA" typeof="acr:ConformanceOption skos:Concept">
+  <h2><span property="skos:prefLabel">Level AA</span> (<code>#levelAA</code>)</h2>
+  <p property="skos:scopeNote">Conformance at level AA include all success criteria (SC) tagged at level AA and at level A.
  </section>
 
+ <section id="levelA" resource="#levelA" typeof="acr:ConformanceOption skos:Concept">
+  <h2><span property="skos:prefLabel">Level A</span> (<code>#levelA</code>)</h2>
+  <p property="skos:scopeNote">Conformance at level A include all success criteria (SC) tagged at level A.
+ </section>
 
- <div id="levelA" resource="#levelA" typeof="acr:ConformanceOption skos:Concept">
-  
-  ## <span property="skos:prefLabel">Level A</span> (`#levelA`)
-
-  <span property="skos:scopeNote">Conformance at level A include all success criteria (SC) tagged at level A.</span>
-
- </div>
-
-
- <div id="delta21_levelAA" resource="#delta21_levelAA" typeof="acr:ConformanceOption skos:Concept">
-
-  ## <span property="skos:prefLabel">WCAG delta 2.1</span> (`#delta21_levelAA`)
-
-  <span property="skos:scopeNote">Conformance at delta 2.1 level AA include all succes criteria added to WCAG 2.1 since WCAG 2.0 at level AA and level A.</span>
- </div>
+ <section id="delta21_levelAA" resource="#delta21_levelAA" typeof="acr:ConformanceOption skos:Concept">
+  <h2><span property="skos:prefLabel">WCAG delta 2.1</span> (<code>#delta21_levelAA</code>)</h2>
+  <p property="skos:scopeNote">Conformance at delta 2.1 level AA include all succes criteria added to WCAG 2.1 since WCAG 2.0 at level AA and level A.
+ </section>
 
 </div>

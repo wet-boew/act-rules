@@ -5,7 +5,7 @@ title: Standard profiles for WCAG
 
 # Standard profiles for WCAG
 
-## `levelAA`
+## [Level AA](#levelAA)
 
 Conformance at level AA include all success criteria (SC) tagged at level AA and at level A.
 

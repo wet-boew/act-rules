@@ -2,6 +2,7 @@
 permalink: /rulesets/wcag2x/sc/1_1_1.json
 ---
 {
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
   "earl:result": [
     {
       "earl:test": "WCAG21:non-text-content",

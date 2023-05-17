@@ -1,3 +1,6 @@
+---
+permalink: /rulesets/wcag2x/wcag21_all_levelAA.json
+---
 {
   "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
   "earl:result": [

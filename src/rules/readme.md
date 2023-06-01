@@ -1,6 +1,6 @@
 # Rules
 
-Additional accessibility testing rule in order to complement WCAG 2x techniques, [ACT rules community](https://act-rules.github.io/rules/) and for other standards such EN 301 549.
+Additional accessibility testing rule in order to complement WCAG 2x techniques, [W3C approved ACT Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/), [ACT rules community](https://act-rules.github.io/rules/) and for other standards such EN 301 549.
 
 ## Folder structure
 

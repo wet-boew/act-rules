@@ -1,0 +1,29 @@
+---
+permalink: /rulesets/wcag2x/sc/1_4_7.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:low-or-no-background-audio",
+      "earl:subject": {
+        "@id": "_:low-or-no-background-audio_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G56",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:low-or-no-background-audio_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

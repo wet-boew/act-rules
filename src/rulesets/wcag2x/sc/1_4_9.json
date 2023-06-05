@@ -1,0 +1,47 @@
+---
+permalink: /rulesets/wcag2x/sc/1_4_9.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:images-of-text-no-exception",
+      "earl:subject": {
+        "@id": "_:images-of-text-no-exception_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:css/C22",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:images-of-text-no-exception_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:css/C30",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:images-of-text-no-exception_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G140",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:images-of-text-no-exception_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF7",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:images-of-text-no-exception_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

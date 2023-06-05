@@ -1,0 +1,50 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc1_4_3/situation_b",
+      "earl:subject": {
+        "@id": "_:contrast-minimum_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G145",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:contrast-minimum_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G148",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:contrast-minimum_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G174",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:contrast-minimum_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F24",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:contrast-minimum_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F83",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:contrast-minimum_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

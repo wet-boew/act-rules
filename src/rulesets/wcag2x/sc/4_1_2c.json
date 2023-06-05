@@ -1,0 +1,80 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc4_1_2/situation_c",
+      "earl:subject": {
+        "@id": "_:name-role-value_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G135",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF10",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF12",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F59",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F15",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F20",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F68",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F79",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F86",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F89",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:name-role-value_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

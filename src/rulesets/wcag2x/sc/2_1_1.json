@@ -1,0 +1,95 @@
+---
+permalink: /rulesets/wcag2x/sc/2_1_1.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:keyboard",
+      "earl:subject": {
+        "@id": "_:keyboard_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G202",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H91",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF3",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF23",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G90",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR20",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR35",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR2",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F54",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F55",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F42",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:keyboard_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

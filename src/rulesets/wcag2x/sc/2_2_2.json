@@ -1,0 +1,101 @@
+---
+permalink: /rulesets/wcag2x/sc/2_2_2.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:pause-stop-hide",
+      "earl:subject": {
+        "@id": "_:pause-stop-hide_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G4",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR33",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G187",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G152",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR22",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G186",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G191",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F16",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F47",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F4",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F50",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F7",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:pause-stop-hide_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

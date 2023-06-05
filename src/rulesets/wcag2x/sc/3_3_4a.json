@@ -1,0 +1,38 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc3_3_4/situation_a",
+      "earl:subject": {
+        "@id": "_:error-prevention-legal-financial-data_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G164",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-prevention-legal-financial-data_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G98",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-prevention-legal-financial-data_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G155",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-prevention-legal-financial-data_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

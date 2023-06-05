@@ -1,0 +1,77 @@
+---
+permalink: /rulesets/wcag2x/sc/2_4_1.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:bypass-blocks",
+      "earl:subject": {
+        "@id": "_:bypass-blocks_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G1",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G123",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G124",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H69",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF9",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H70",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H64",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR28",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:bypass-blocks_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

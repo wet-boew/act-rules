@@ -1,0 +1,68 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc3_3_1/situation_b",
+      "earl:subject": {
+        "@id": "_:error-identification_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA18",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA19",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA21",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G84",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G85",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR18",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR32",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF22",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:error-identification_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

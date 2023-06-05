@@ -1,0 +1,62 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc1_4_1/situation_a",
+      "earl:subject": {
+        "@id": "_:use-of-color_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G14",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G205",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G182",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G183",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F13",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F73",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F81",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:use-of-color_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

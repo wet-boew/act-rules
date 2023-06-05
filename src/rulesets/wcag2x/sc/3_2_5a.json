@@ -1,0 +1,68 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc3_2_5/situation_a",
+      "earl:subject": {
+        "@id": "_:change-on-request_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G76",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F60",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F61",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F9",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F22",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F52",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F40",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F41",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:change-on-request_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+---
+permalink: /rulesets/wcag2x/sc/2_4_4.json
+---
+{
+  "@context": "https://wet-boew.github.io/vocab/context/2023/acr.json",
+  "earl:result": [
+    {
+      "earl:test": "WCAG21:link-purpose-in-context",
+      "earl:subject": {
+        "@id": "_:link-purpose-in-context_itm1",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "dct:isPartOf": "_:subject",
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:general/G91",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H30",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H24",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G189",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR30",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:FLASH7",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G53",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H33",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:css/C7",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA7",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA8",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H77",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H78",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H79",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H81",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF13",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F63",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F89",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:link-purpose-in-context_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

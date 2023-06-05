@@ -1,0 +1,272 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc1_3_1/situation_a",
+      "earl:subject": {
+        "@id": "_:info-and-relationships_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'expand/collapse arrow'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA12",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA13",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA16",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA17",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA20",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G115",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G117",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G140",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:aria/ARIA24",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:general/G138",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H51",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF6",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF20",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H39",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H63",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H43",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H44",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H65",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF10",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF12",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H71",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H85",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H48",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H42",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF9",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:client-side-script/SCR21",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF11",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF17",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF21",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H97",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F2",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F33",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F34",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F42",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F43",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F46",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F48",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F87",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F90",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F91",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F92",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:info-and-relationships_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

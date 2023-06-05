@@ -1,0 +1,98 @@
+{
+  "@context": "",
+  "earl:result": [
+    {
+      "earl:test": "act_rules:wcag2x/sc1_1_1/situation_f",
+      "subject": {
+        "@id": "_:non-text-content_itm1",
+        "dct:isPartOf": "_:subject",
+        "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+        "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'Figure 2, a bar chart'. Provide a pointer when applicable (earl:pointer)"
+      },
+      "earl:outcome": "earl:untested",
+      "dct:description": "",
+      "earl:mode": "earl:unknownMode",
+      "earl:result": [
+        {
+          "earl:test": "WCAG2xTech:css/C9",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:html/H67",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:pdf/PDF4",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F3",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F13",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F20",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F30",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F38",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F39",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F65",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F67",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F71",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        },
+        {
+          "earl:test": "WCAG2xTech:failures/F72",
+          "earl:outcome": "earl:untested",
+          "earl:mode": "earl:unknownMode",
+          "earl:subject": "_:non-text-content_itm1"
+        }
+      ],
+      "@type": ["earl:TestResult", "earl:Assertion"]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+	"@context": "",
+	"earl:result": [
+	  {
+		"earl:test": "act_rules:wcag2x/sc1_2_1/situation_b",
+		"subject": {
+		  "@id": "_:audio-only-and-video-only-prerecorded_itm1",
+		  "dct:isPartOf": "_:subject",
+		  "@type": [ "earl:TestSubject", "schema:WebPageElement" ],
+		  "acr:applicability": "Textual identification of the web page element that is being evaluated, like: 'Figure 2, a bar chart'. Provide a pointer when applicable (earl:pointer)"
+		},
+		"earl:outcome": "earl:untested",
+		"dct:description": "",
+		"earl:mode": "earl:unknownMode",
+		"earl:result": [
+		  {
+			"earl:test": "WCAG2xTech:general/G159",
+			"earl:outcome": "earl:untested",
+			"earl:mode": "earl:unknownMode",
+			"earl:subject": "_:audio-only-and-video-only-prerecorded_itm1"
+		  },
+		  {
+			"earl:test": "WCAG2xTech:general/G166",
+			"earl:outcome": "earl:untested",
+			"earl:mode": "earl:unknownMode",
+			"earl:subject": "_:audio-only-and-video-only-prerecorded_itm1"
+		  },
+		  {
+			"earl:test": "WCAG2xTech:failures/F30",
+			"earl:outcome": "earl:untested",
+			"earl:mode": "earl:unknownMode",
+			"earl:subject": "_:audio-only-and-video-only-prerecorded_itm1"
+		  },
+		  {
+			"earl:test": "WCAG2xTech:failures/F67",
+			"earl:outcome": "earl:untested",
+			"earl:mode": "earl:unknownMode",
+			"earl:subject": "_:audio-only-and-video-only-prerecorded_itm1"
+		  }
+		],
+		"@type": ["earl:TestResult", "earl:Assertion"]
+	  }
+	]
+  }
+  

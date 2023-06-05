@@ -1,5 +1,5 @@
 ---
-permalink: /standard_profiles/wcag
+permalink: /standard/profiles/wcag
 title: Standard profiles for WCAG
 ---
 <div prefix="acr: https://wet-boew.github.io/vocab/acr#">
